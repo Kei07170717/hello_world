@@ -4,5 +4,6 @@ def greeting_mul_lan(num):
         print("Bonjour")
         print("Konichiwa")
         print("I made my first change in develop branch")
+print(3+2)
 
 print(greeting_mul_lan(3))
